@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/Myr4a4os/Replan_Delivery_Pattern/actions/workflows/grdle.yml/badge.svg)](https://github.com/Myr4a4os/Replan_Delivery_Pattern/actions/workflows/grdle.yml)

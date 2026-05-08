@@ -20,8 +20,6 @@ import static com.codeborne.selenide.Selenide.open;
 public class CardDeliveryTest {
     @BeforeEach
     void setup() {
-        Configuration.headless = true;
-
         open("http://localhost:9999");
     }
 
